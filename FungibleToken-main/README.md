@@ -162,7 +162,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Harshath KS**
+**Kerthana HR**
 - GitHub: [@KeerthanaHR](https://github.com/KeerthanaHR)
 
 ---
